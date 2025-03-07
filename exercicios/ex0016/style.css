@@ -1,0 +1,14 @@
+@charset "UTF-8;";
+body{background-image: linear-gradient(to right,yellow,rgb(241, 12, 12),green);}
+
+h1{color: rgba(58, 94, 11, 0.938);
+text-shadow: 3px 3px 3px;
+text-align: center;}
+
+main{background-color:rgba(212, 132, 132, 0.801) 
+;margin: auto;
+box-shadow: 3px 3px 5px black;
+padding: 10px;
+border-radius: 4px 4px 4px;
+width: 600px;}
+p{color: rgb(71, 37, 12);}

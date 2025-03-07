@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*em html é id = # em css só posso ter um elemento
+em html é class = . em css posso utilizar em vários elementos.*/
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:green ;}
+h2{font-family: Arial, Helvetica, sans-serif;
+color: rgba(62, 131, 79, 0.89);}
+body{background-color: rgb(158, 231, 158);}
+#principal{text-align: center;}
+.básico{
+color: rgba(51, 105, 87, 0.89) ;
+}
+.intermediario{
+color: rgba(151, 143, 70, 0.89)
+}
+.avançado{
+color: rgba(128, 85, 51, 0.89) ;
+}
+.destaque{
+    color: rgba(51, 125, 128, 0.89) ;
+}
